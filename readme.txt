@@ -10,6 +10,11 @@ Choose your nav icons on the top right in Mystique theme via a drag 'n drop inte
 
 == Description ==
 
+**IMPORTANT: this plugin has been abandoned!**
+
+If you are a developer and would like to fork, feel free to do so (under the
+GPLv3 license). No need to contact me.
+
 Use this plugin to customize your navigation buttons on the top right
 when using Mystique theme.
 
